@@ -1,5 +1,4 @@
 # Projeto Alura
-### Professor: Daniel Akira
 
 ---
 
