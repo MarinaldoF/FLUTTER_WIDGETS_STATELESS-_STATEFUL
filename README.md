@@ -1,16 +1,19 @@
-# alura_widgets_stateless
+# Projeto Alura
+### Professor: Daniel Akira
 
-A new Flutter project.
+---
 
-## Getting Started
+Foi feito um pequeno projeto de lista em flutter. Foi possível aprender sobre estado em flutter, images local, web e animações.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+Fotos do projeto:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Tela02](https://user-images.githubusercontent.com/81994459/204110749-c288c6dd-5666-40bb-8c22-fa5542ba80e4.jpeg)
+
+
+
+
+
+![Tela01](https://user-images.githubusercontent.com/81994459/204110746-8818d66b-a8d9-4d96-a2e6-11d97aa1e9d8.jpeg)
