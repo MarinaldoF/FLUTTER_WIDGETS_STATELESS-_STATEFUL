@@ -11,4 +11,10 @@ Fotos do projeto:
 
 
 
-![Tela01_resized](https://user-images.githubusercontent.com/81994459/204110890-3966e1b4-9b48-4e9b-9129-b5ad42dc40e9.jpeg)
+![_Tela01](https://user-images.githubusercontent.com/81994459/204110944-619c964c-501e-4a1d-8145-954665db91da.jpeg)
+
+
+
+
+
+![_Tela02](https://user-images.githubusercontent.com/81994459/204110947-e7b01993-7c10-46a2-b088-b3daaa2e008b.jpeg)
