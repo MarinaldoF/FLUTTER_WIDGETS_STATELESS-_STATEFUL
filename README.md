@@ -2,7 +2,7 @@
 
 ---
 
-Foi feito um pequeno projeto de lista em flutter. Foi possível aprender sobre estado em flutter, images local, web e animações.
+Foi feito um pequeno projeto de lista em flutter. Foi possível aprender sobre estados em flutter, images local, web e animações.
 
 ---
 
